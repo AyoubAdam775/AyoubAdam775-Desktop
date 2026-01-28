@@ -1,6 +1,5 @@
 # 🌍 AI-Driven Climate Risk Prediction System
 
-**IndabaX & Zamzam University Hackathon Project**
 
 An advanced AI-powered system for predicting extreme weather events and providing early warnings for disaster preparedness.
 
@@ -282,3 +281,4 @@ For questions or issues, please refer to the hackathon organizers.
 ---
 
 **Built with ❤️ for Climate Risk Prediction** 🌍
+
